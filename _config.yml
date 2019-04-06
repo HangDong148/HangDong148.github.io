@@ -107,7 +107,7 @@ analytics:
 # Site Author
 author:
   name             : "Hang Dong"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/GithubProfile.jpg"
   bio              : "Data Analytics Projects"
   location         : "Auckland, New Zealand"
   email            :
